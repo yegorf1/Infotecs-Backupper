@@ -1,0 +1,4 @@
+{
+  "backups_directory": "tmp",
+  "log_level": "debug"
+}
